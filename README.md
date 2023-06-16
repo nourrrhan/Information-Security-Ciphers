@@ -1,4 +1,4 @@
-# Information-Security-Ciphers
+# Information Security Ciphers
 
 This collection comprises MATLAB code implementations for encryption and decryption using various ciphers. 
 
